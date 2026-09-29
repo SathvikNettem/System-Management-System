@@ -52,13 +52,7 @@ Student-Management-System/
 
 ---
 
-## ▶️ How to Run
 
-Clone the repository
-
-```bash
-git clone https://github.com/ESHRATH907/Student-Management-System-Python.git
-```
 
 Go to the project folder
 
@@ -148,12 +142,6 @@ python student-management-system.py
 
 ---
 
-## 👩‍💻 Author
 
-**Eshrath Jahan**
-
-GitHub: https://github.com/ESHRATH907
-
----
 
 ⭐ If you found this project useful, consider giving it a star.
